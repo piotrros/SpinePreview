@@ -1,0 +1,279 @@
+
+machine_tashi_juice.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 450, 108
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 559, 169
+  size: 24, 48
+  orig: 24, 48
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 502, 171
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 620, 171
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 422, 73
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 322, 59
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 655, 171
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 372, 62
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 690, 171
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 585, 170
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 414, 108
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+=
+  rotate: false
+  xy: 158, 9
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 7
+  size: 98, 247
+  orig: 98, 247
+  offset: 0, 0
+  index: -1
+bubble
+  rotate: false
+  xy: 322, 98
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+bubblealpha
+  rotate: false
+  xy: 368, 98
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+earl
+  rotate: false
+  xy: 394, 158
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+earp
+  rotate: false
+  xy: 448, 158
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 584, 220
+  size: 110, 34
+  orig: 110, 34
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 696, 220
+  size: 110, 34
+  orig: 110, 34
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 808, 220
+  size: 110, 34
+  orig: 110, 34
+  offset: 0, 0
+  index: -1
+eye4
+  rotate: true
+  xy: 204, 24
+  size: 110, 34
+  orig: 110, 34
+  offset: 0, 0
+  index: -1
+eye5
+  rotate: false
+  xy: 240, 217
+  size: 112, 37
+  orig: 112, 37
+  offset: 0, 0
+  index: -1
+eye7
+  rotate: true
+  xy: 240, 43
+  size: 110, 34
+  orig: 110, 34
+  offset: 0, 0
+  index: -1
+eyebrownl
+  rotate: false
+  xy: 240, 25
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+eyebrownp
+  rotate: true
+  xy: 1007, 223
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1
+handl
+  rotate: true
+  xy: 354, 219
+  size: 35, 113
+  orig: 35, 113
+  offset: 0, 0
+  index: -1
+handp
+  rotate: true
+  xy: 469, 219
+  size: 35, 113
+  orig: 35, 113
+  offset: 0, 0
+  index: -1
+handp3
+  rotate: false
+  xy: 240, 155
+  size: 85, 60
+  orig: 85, 60
+  offset: 0, 0
+  index: -1
+handp4
+  rotate: false
+  xy: 327, 146
+  size: 65, 69
+  orig: 65, 69
+  offset: 0, 0
+  index: -1
+handp_2
+  rotate: true
+  xy: 276, 55
+  size: 98, 44
+  orig: 98, 44
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 102, 136
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+legl
+  rotate: false
+  xy: 725, 187
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+legp
+  rotate: false
+  xy: 770, 187
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+mniej
+  rotate: true
+  xy: 814, 185
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 102, 3
+  size: 54, 29
+  orig: 54, 29
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 276, 2
+  size: 71, 51
+  orig: 71, 51
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 920, 198
+  size: 85, 56
+  orig: 85, 56
+  offset: 0, 0
+  index: -1
+tshirt
+  rotate: false
+  xy: 102, 34
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+wiecej
+  rotate: true
+  xy: 852, 185
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
